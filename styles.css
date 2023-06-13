@@ -1,0 +1,41 @@
+
+body 
+
+{ 
+    background-color: #EAF6F6;
+
+}
+
+ hr 
+{
+    color: white;
+    border-style: none ;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    height: 0px;
+    width: 5%;
+
+
+}
+h1
+{
+    color:  #66BFBF;
+    border-style: none;
+    border-width: 5px;
+    border-inline-start-style: double;
+    border-inline-start-width: 0cap;
+    max-block-size: 1%;
+    box-sizing: content-box;
+    border-inline-end-style: double;
+
+}
+h3
+{
+    color: #66BFBF;
+}
+
+h2{
+    color: #66BFBF;
+
+}
